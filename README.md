@@ -9,7 +9,6 @@
 
 ![About Me](about-me-banner.svg)
 
-   ![About Me](about-me-banner.svg)
 
 ![Skills](https://skillicons.dev/icons?i=js,cpp,html,css,firebase)
 
