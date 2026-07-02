@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=stiffler56&style=flat" alt="Profile views" />
 </p>
 
-![About Me](stiffler56/about-me-banner.svg)
+![About Me](about-me-banner.svg)
 
     
   
