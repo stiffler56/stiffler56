@@ -26,7 +26,8 @@
 
   <!-- Header -->
   <text x="50" y="65" class="title">Hey there! 👋</text>
-  <text x="50" y="92" class="text">I'm Abdisamad — a Software Engineering student who loves building practical projects and exploring the world of cybersecurity.</text>
+  <text x="50" y="92" class="text">I'm Abdisamad — a Software Engineering student who loves building practical
+    projects and exploring the world of cybersecurity.</text>
   <line x1="50" y1="112" x2="850" y2="112" stroke="#334155" stroke-width="1"/>
 
   <!-- Current Focus -->
