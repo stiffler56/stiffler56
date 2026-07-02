@@ -32,7 +32,7 @@
 
   <!-- Current Focus -->
   <text x="50" y="150" class="label">🎯 Current Focus</text>
-  <text x="50" y="176" class="text">Building an app for tracking journals, powered by Firebase.</text>
+  <text x="50" y="176" class="text">Building an app for tracking journals in Firebase.</text>
 
   <!-- Learning -->
   <text x="50" y="216" class="label">📚 Learning</text>
